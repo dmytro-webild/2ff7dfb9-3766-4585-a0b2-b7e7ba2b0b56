@@ -183,7 +183,7 @@ export default function LandingPage() {
           tagAnimation="blur-reveal"
           textboxLayout="default"
           useInvertedBackground={false}
-          faqsAnimation="smooth"
+          faqsAnimation="blur-reveal"
           faqs={[
             { id: "1", title: "Is ShadowPlay really free?", content: "Yes, completely free. You can upload, browse, and download content without any paywalls. We're building a truly free platform for indie creators and content consumers. Eventually, we may offer optional paid features like advanced analytics for creators, but core functionality will always be free." },
             { id: "2", title: "How do I upload my game, music, or film?", content: "Create an account, go to your creator dashboard, and click 'Upload New Content.' You can upload games (web, Windows, Mac), music tracks (MP3, WAV, FLAC), or films (MP4, MOV, WebM). Our backend will handle hosting and delivery. File size limits and formats are clearly shown during upload." },
